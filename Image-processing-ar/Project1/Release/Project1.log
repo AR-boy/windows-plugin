@@ -1,0 +1,2 @@
+﻿  Source.cpp
+d:\matasstuff\university\year3\fyp\plugin_development\im-ar-windows\image-processing-ar\project1\source.cpp(1): fatal error C1083: Cannot open include file: 'opencv2/objdetect.hpp': No such file or directory
