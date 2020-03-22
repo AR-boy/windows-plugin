@@ -1,0 +1,33 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CalibrateTest.cpp
+  Source.cpp
+d:\matasstuff\university\year3\fyp\plugin_development\im-ar-windows\image-processing-ar\project1\source.cpp(45): warning C4244: 'return': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+d:\matasstuff\university\year3\fyp\plugin_development\im-ar-windows\image-processing-ar\project1\source.cpp(87): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\matasstuff\university\year3\fyp\plugin_development\im-ar-windows\image-processing-ar\project1\source.cpp(111): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\matasstuff\university\year3\fyp\plugin_development\im-ar-windows\image-processing-ar\project1\source.cpp(134): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\matasstuff\university\year3\fyp\plugin_development\im-ar-windows\image-processing-ar\project1\source.cpp(161): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\matasstuff\university\year3\fyp\plugin_development\im-ar-windows\image-processing-ar\project1\source.cpp(183): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\matasstuff\university\year3\fyp\plugin_development\im-ar-windows\image-processing-ar\project1\source.cpp(208): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\matasstuff\university\year3\fyp\plugin_development\im-ar-windows\image-processing-ar\project1\source.cpp(633): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+d:\matasstuff\university\year3\fyp\plugin_development\im-ar-windows\image-processing-ar\project1\source.cpp(716): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+d:\matasstuff\university\year3\fyp\plugin_development\im-ar-windows\image-processing-ar\project1\source.cpp(837): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\matasstuff\university\year3\fyp\plugin_development\im-ar-windows\image-processing-ar\project1\source.cpp(838): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\matasstuff\university\year3\fyp\plugin_development\im-ar-windows\image-processing-ar\project1\source.cpp(839): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\matasstuff\university\year3\fyp\plugin_development\im-ar-windows\image-processing-ar\project1\source.cpp(942): warning C4305: 'argument': truncation from 'double' to 'float'
+     Creating library D:\MatasStuff\University\Year3\FYP\plugin_development\im-ar-windows\Image-processing-ar\x64\Release\OpenCVUnity.lib and object D:\MatasStuff\University\Year3\FYP\plugin_development\im-ar-windows\Image-processing-ar\x64\Release\OpenCVUnity.exp
+  Generating code
+  All 531 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project1.vcxproj -> D:\MatasStuff\University\Year3\FYP\plugin_development\im-ar-windows\Image-processing-ar\x64\Release\OpenCVUnity.dll
